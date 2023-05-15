@@ -7,7 +7,7 @@ class Sqlfmt < Formula
   version "0.18.1"
   revision 1
 
-  depends_on "python@3"
+  depends_on "python@3.11"
 
   def install
     virtualenv_install_with_resources
