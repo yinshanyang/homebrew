@@ -5,7 +5,6 @@ class Sqlfmt < Formula
   url "https://files.pythonhosted.org/packages/a0/d9/4491e2cfa007dac6a2cd348c7cb496a9b91e2529f0fede448702d93ba5cf/shandy_sqlfmt-0.18.1.tar.gz"
   sha256 "4ccf0dff917adc226e34a6eead5951c38939eda7777549975ed47d6fdd346140"
   version "0.18.1"
-  revision 1
 
   depends_on "python3"
 
