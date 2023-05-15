@@ -50,6 +50,6 @@ class Sqlfmt < Formula
   end
 
   test do
-    false
+    assert_match "sqlfmt, version 0.18.1", shell_output("#{bin}/sqlfmt --version")
   end
 end
