@@ -2,6 +2,7 @@
 
 - sqlfmt (self-packaged)
 - [jira-cli](https://github.com/ankitpokhrel/homebrew-jira-cli)
+- [musl-cross](https://github.com/FiloSottile/homebrew-musl-cross)
 
 # Casks
 
